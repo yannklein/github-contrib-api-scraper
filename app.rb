@@ -5,6 +5,9 @@ require 'json'
 require 'open-uri'
 require 'date'
 require 'pry'
+require "sinatra/cors"
+
+set :allow_origin, "http://localhost:4567 https://yannklein.me https://yannklein.github.io"
 
 api_url = "https://github-contributions.now.sh/api/v1/"
 nested_query = "?format=nested"
