@@ -1,0 +1,525 @@
+{
+"batch": "363",
+"day": "2020-03-16",
+"demoday": "2020-03-13",
+"best_commiter_since_demo_day": [
+{
+"alumnus": {
+"id": 6955,
+"first_name": "Noemi",
+"last_name": "Ashizuka",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581465654/ald6cwc2teqzuzavawdt.jpg",
+"github": "noemi-ashizuka",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 4,
+"last_7_days_activity": 65,
+"activity_since_dd": 5,
+"seven_days_ranking": 11
+}
+],
+"students_of_the_day": [
+{
+"alumnus": {
+"id": 6955,
+"first_name": "Noemi",
+"last_name": "Ashizuka",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581465654/ald6cwc2teqzuzavawdt.jpg",
+"github": "noemi-ashizuka",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 4,
+"last_7_days_activity": 65,
+"activity_since_dd": 5,
+"seven_days_ranking": 11
+}
+],
+"ranking": [
+{
+"alumnus": {
+"id": 6944,
+"first_name": "Ryanda",
+"last_name": "Diedan",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1579437086/nok5ib2zbyxkim1weter.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1579437086/nok5ib2zbyxkim1weter.jpg"
+}
+},
+"url": "https://assetgenius.co.jp/",
+"position": "Software Engineer at AssetGenius, Inc."
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581548396/pxioys5mpfonmwdxudof.jpg",
+"github": "rnd00",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 1,
+"last_7_days_activity": 200,
+"activity_since_dd": 1,
+"seven_days_ranking": 1
+},
+{
+"alumnus": {
+"id": 6950,
+"first_name": "Yuka",
+"last_name": "Itozu",
+"current_experience": {
+"picture": {
+"url": null,
+"avatar": {
+"url": null
+}
+},
+"url": null,
+"position": "English Teacher at Study Stay Australia"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581476287/wthty0hwzha1sea38rew.jpg",
+"github": "yukaitozu",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 180,
+"activity_since_dd": 0,
+"seven_days_ranking": 2
+},
+{
+"alumnus": {
+"id": 6952,
+"first_name": "Arnaud",
+"last_name": "Rottier",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1535117323/wevbkqbxte7toxayzana.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1535117323/wevbkqbxte7toxayzana.jpg"
+}
+},
+"url": "http://www.foodpanda.com/",
+"position": "Sales Operations Manager at foodpanda"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581517977/rl6r9grbbwp6sodwqcnr.jpg",
+"github": "arnaudrottier",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 110,
+"activity_since_dd": 0,
+"seven_days_ranking": 3
+},
+{
+"alumnus": {
+"id": 6960,
+"first_name": "Hiroki",
+"last_name": "Kameyama",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581583216/jmgcspix3us0va6buzfy.jpg",
+"github": "Tebitch",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 95,
+"activity_since_dd": 0,
+"seven_days_ranking": 4
+},
+{
+"alumnus": {
+"id": 6962,
+"first_name": "yuichiro",
+"last_name": "watanabe",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581463054/razp7pav26nee9xpmnf1.jpg",
+"github": "watannbe11",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 2,
+"last_7_days_activity": 92,
+"activity_since_dd": 2,
+"seven_days_ranking": 5
+},
+{
+"alumnus": {
+"id": 6963,
+"first_name": "Brian",
+"last_name": "Heise",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1565971366/sk7znfkq9kpwdw70ezko.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1565971366/sk7znfkq9kpwdw70ezko.jpg"
+}
+},
+"url": null,
+"position": "Writer/Photographer/Translator at Self-employed"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581465594/fpu5f1ut386fxaonpczy.jpg",
+"github": "toadslop",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 2,
+"last_7_days_activity": 83,
+"activity_since_dd": 2,
+"seven_days_ranking": 6
+},
+{
+"alumnus": {
+"id": 6949,
+"first_name": "Yuka",
+"last_name": "Takiyama",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581473191/yqgsv8lbex3uer3uq1bh.jpg",
+"github": "takiyukaa",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 1,
+"last_7_days_activity": 76,
+"activity_since_dd": 1,
+"seven_days_ranking": 7
+},
+{
+"alumnus": {
+"id": 6965,
+"first_name": "William",
+"last_name": "Nunn",
+"current_experience": {
+"picture": {
+"url": null,
+"avatar": {
+"url": null
+}
+},
+"url": null,
+"position": "Host at Saltwater Oyster Bar & Fish House"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581476603/hpyas56icyqqhrroz5iq.jpg",
+"github": "wnunn2",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 75,
+"activity_since_dd": 0,
+"seven_days_ranking": 8
+},
+{
+"alumnus": {
+"id": 6947,
+"first_name": "Jethro",
+"last_name": "Tang",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581471969/vjdib7xizgrxooj2vadp.jpg",
+"github": "JthTang",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 2,
+"last_7_days_activity": 68,
+"activity_since_dd": 2,
+"seven_days_ranking": 9
+},
+{
+"alumnus": {
+"id": 6964,
+"first_name": "Junya",
+"last_name": "Nomura",
+"current_experience": {
+"picture": {
+"url": null,
+"avatar": {
+"url": null
+}
+},
+"url": null,
+"position": "Producer, FP&A manager at C Channel Corporation"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581568360/vyfoa8jjlys3jenkaa67.jpg",
+"github": "JunyaNomura",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 66,
+"activity_since_dd": 0,
+"seven_days_ranking": 10
+},
+{
+"alumnus": {
+"id": 6959,
+"first_name": "Natália Naomi",
+"last_name": "Takahara",
+"current_experience": {
+"picture": {
+"url": null,
+"avatar": {
+"url": null
+}
+},
+"url": null,
+"position": "Waitress at Tanto Tanto"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581471719/sv2jcgff2p45l0iknmyp.jpg",
+"github": "natti05",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 2,
+"last_7_days_activity": 65,
+"activity_since_dd": 3,
+"seven_days_ranking": 11
+},
+{
+"alumnus": {
+"id": 6955,
+"first_name": "Noemi",
+"last_name": "Ashizuka",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581465654/ald6cwc2teqzuzavawdt.jpg",
+"github": "noemi-ashizuka",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 4,
+"last_7_days_activity": 65,
+"activity_since_dd": 5,
+"seven_days_ranking": 11
+},
+{
+"alumnus": {
+"id": 6954,
+"first_name": "Soraida",
+"last_name": "Henne",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1579423233/fxjazx9tgggbbjiudh3q.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1579423233/fxjazx9tgggbbjiudh3q.jpg"
+}
+},
+"url": "http://bit.ly/TennantCompanyLI",
+"position": "Customer Master Records at Tennant Company"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581465755/ebylyzypa4pbigzhxjtj.jpg",
+"github": "sodapoph",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 65,
+"activity_since_dd": 0,
+"seven_days_ranking": 11
+},
+{
+"alumnus": {
+"id": 6946,
+"first_name": "Mike",
+"last_name": "Warren",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1553499180/tss6jczitnehzvfll6wm.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1553499180/tss6jczitnehzvfll6wm.jpg"
+}
+},
+"url": null,
+"position": "Full time web development bootcamp  at Le Wagon"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1582293776/phepwyfyrtr0dyymkc5h.jpg",
+"github": "Gakkun89",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 1,
+"last_7_days_activity": 60,
+"activity_since_dd": 1,
+"seven_days_ranking": 12
+},
+{
+"alumnus": {
+"id": 6945,
+"first_name": "Adil",
+"last_name": "Omary",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1532973128/sheycnligwjpz5tuw4cn.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1532973128/sheycnligwjpz5tuw4cn.jpg"
+}
+},
+"url": "",
+"position": "Conseiller Clientele De Professionnels at Société Générale"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581465627/qzjxamz9cn3gpuxhvlkb.jpg",
+"github": "AdilOmary",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 2,
+"last_7_days_activity": 54,
+"activity_since_dd": 2,
+"seven_days_ranking": 13
+},
+{
+"alumnus": {
+"id": 6948,
+"first_name": "Frances",
+"last_name": "Cheng",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1579227954/r5wsip0y7htxiujoplgy.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1579227954/r5wsip0y7htxiujoplgy.jpg"
+}
+},
+"url": "http://www.cultureexchange.us/",
+"position": "Attraction and Graphic Designer at International Culture Exchange Group"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581552207/j51suxjyfz3zmkxa75hy.jpg",
+"github": "francescheng",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 1,
+"last_7_days_activity": 47,
+"activity_since_dd": 1,
+"seven_days_ranking": 14
+},
+{
+"alumnus": {
+"id": 6956,
+"first_name": "Richard",
+"last_name": "Lynch",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1553499180/tss6jczitnehzvfll6wm.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1553499180/tss6jczitnehzvfll6wm.jpg"
+}
+},
+"url": null,
+"position": "Student at Le Wagon"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581898661/y94xjrngkbqlrswgoy1a.jpg",
+"github": "richlynch2",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 2,
+"last_7_days_activity": 45,
+"activity_since_dd": 2,
+"seven_days_ranking": 15
+},
+{
+"alumnus": {
+"id": 6961,
+"first_name": "Antonio",
+"last_name": "Sanchez",
+"current_experience": {
+"picture": {
+"url": "https://res.cloudinary.com/wagon/image/upload/v1581730446/jkvblkkkkhvrlyus1ikk.jpg",
+"avatar": {
+"url": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581730446/jkvblkkkkhvrlyus1ikk.jpg"
+}
+},
+"url": "http://www.ritzcarlton.com/",
+"position": "Global Intern at The Ritz-Carlton Hotel Company, L.L.C."
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581464518/veliun8kzxcpqeceagtq.jpg",
+"github": "antonioist",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 35,
+"activity_since_dd": 0,
+"seven_days_ranking": 16
+},
+{
+"alumnus": {
+"id": 6957,
+"first_name": "Shoichi ",
+"last_name": "Hasegawa",
+"current_experience": {
+"picture": {
+"url": null,
+"avatar": {
+"url": null
+}
+},
+"url": null,
+"position": "Data Scientist / Data Analyst at SBI Holdings"
+},
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581750248/adyprg2s6nuseyhgdjse.jpg",
+"github": "sho10",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 21,
+"activity_since_dd": 0,
+"seven_days_ranking": 17
+},
+{
+"alumnus": {
+"id": 6958,
+"first_name": "tiongjin",
+"last_name": "koh",
+"avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1581750496/djqplrgoxdkkvsimhei3.jpg",
+"github": "thecodeslide",
+"alumni": true,
+"camp_slug": "363",
+"camp_date": "Jan '20",
+"city": "Tokyo"
+},
+"today_activity": 0,
+"last_7_days_activity": 5,
+"activity_since_dd": 0,
+"seven_days_ranking": 18
+}
+]
+}
