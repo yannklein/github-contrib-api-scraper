@@ -6,16 +6,32 @@ require 'open-uri'
 require 'date'
 require 'pry'
 require "sinatra/cors"
+require 'nokogiri'
 
 set :allow_origin, "http://localhost:8080 http://localhost:4567 https://www.yannklein.me https://yannklein.github.io"
 
-api_url = "https://github-contributions.now.sh/api/v1/"
-nested_query = "?format=nested"
-
 get '/:github_account' do
-  endpoint = "#{api_url}#{params[:github_account]}?format=#{params[:format]}"
+
+  url = "https://github.com/#{params[:github_account]}";
+
+  html_file = URI.open(url).read
+  html_doc = Nokogiri::HTML(html_file)
+  
+  contrib_square_class = ".ContributionCalendar-day[data-date='#{Date.today.strftime('%Y-%m-%d')}']"
+
+  today_contribution = html_doc
+    .search('.js-calendar-graph-svg')
+    .search(contrib_square_class)
+    .attribute('data-count')
+    .value
+
+  contrib = {
+    today_contrib: today_contribution,
+    date: Date.today.strftime('%Y-%m-%d')
+  }
+
   begin
-    json JSON.parse(URI.open(endpoint).read)
+    json contrib
   rescue OpenURI::HTTPError => e
     'Github account not existing. '
   end
